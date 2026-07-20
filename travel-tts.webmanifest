@@ -1,0 +1,17 @@
+{
+  "name": "여행 TTS 변환기",
+  "short_name": "여행 TTS",
+  "start_url": "./vllo-tts-converter.html",
+  "display": "standalone",
+  "background_color": "#f5f4ee",
+  "theme_color": "#275d4b",
+  "lang": "ko",
+  "icons": [
+    {
+      "src": "travel-tts-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
